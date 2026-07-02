@@ -44,11 +44,11 @@ cav-reliability-routing/
 
 ## Animated Visualisations
 
-### GIF 1 — Core Concept Dashboard
+### Core Concept Dashboard
 *Five-panel live dashboard: map evolving, phase diagram, SR bars, timeline, awareness gap*
 
 <p align="center">
-  <img src="case_study_iberia/figures/gif/GIF1_core_concept.gif" width="860" alt="Core concept dashboard animation"/>
+ "![Banner](banner/GIF1_core_concept.gif" width="860" alt="Core concept dashboard animation"/>
 </p>
 
 ---
