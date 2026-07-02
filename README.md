@@ -3,7 +3,7 @@
 
 ## Core Idea
 
-![Banner](Banner/GIF1_core_concept.gif)
+![Banner](Banner/GIF3_pareto_collapse.gif)
 
 > *As network link reliability φ degrades during the 2025 Iberian Peninsula blackout, service rate collapses
 > and reliability-aware routing recovers **18–35 percentage points** more patients than unaware planning.*
